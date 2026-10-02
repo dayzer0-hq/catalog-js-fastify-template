@@ -1,0 +1,16 @@
+{
+  "name": "catalog-js-fastify-template",
+  "version": "1.0.0",
+  "description": "JavaScript + Fastify (Node) starter for DayZer0 catalog briefs",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "fastify": "^5.2.0"
+  }
+}
